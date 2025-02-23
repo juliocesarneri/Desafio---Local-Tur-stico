@@ -1,3 +1,11 @@
+*{
+  font-family: "Open Sans", serif;
+}
+
+span{
+  line-height: 8px;
+}
+
 #page{
   width: 1120px;
   margin: auto;
@@ -8,9 +16,49 @@ img{
   border-radius: 28px;
 }
 
+h1{
+  font-size: 36px;
+}
+
+h3{
+  font-size: 28px;
+}
+
 .subtitle{
   font-size: 16px;
   color: #E1624F;
   text-transform: uppercase;
+}
+
+#busan-image p{
+  font-style: italic;
+}
+
+.indication{
+  font-weight: bold;
+}
+
+#list ul li{
+  font-weight: bold;
+}
+
+.history{
+  color: #0C51A7;
+}
+
+.casals{
+  color: #591B98;
+}
+
+.family{
+  color: #E5245E;
+}
+
+.money{
+  color: #E95E10;
+}
+
+footer{
+  text-align: center;
 }
 
