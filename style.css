@@ -1,9 +1,10 @@
 *{
-  font-family: "Open Sans", serif;
+  font-family: "Open Sans", sans-serif;
 }
 
 #page{
-  width: 1120px;
+  max-width: 1120px;
+  width: 90%;
   margin: auto;
   padding: 88px;
 }
@@ -37,7 +38,7 @@ h3{
   text-transform: uppercase;
 }
 
-.list-1, .list-2, .list-3{
+#list-1, #list-2, #list-3{
   margin-top: 64px;
 }
 
